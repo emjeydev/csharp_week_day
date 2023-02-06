@@ -1,0 +1,8 @@
+D:\Projects\Programming\C#\06 - Get Days Of The Week\WeekDay\WeekDay\bin\Debug\WeekDay.exe.config
+D:\Projects\Programming\C#\06 - Get Days Of The Week\WeekDay\WeekDay\bin\Debug\WeekDay.exe
+D:\Projects\Programming\C#\06 - Get Days Of The Week\WeekDay\WeekDay\bin\Debug\WeekDay.pdb
+D:\Projects\Programming\C#\06 - Get Days Of The Week\WeekDay\WeekDay\obj\Debug\WeekDay.csproj.AssemblyReference.cache
+D:\Projects\Programming\C#\06 - Get Days Of The Week\WeekDay\WeekDay\obj\Debug\WeekDay.csproj.SuggestedBindingRedirects.cache
+D:\Projects\Programming\C#\06 - Get Days Of The Week\WeekDay\WeekDay\obj\Debug\WeekDay.csproj.CoreCompileInputs.cache
+D:\Projects\Programming\C#\06 - Get Days Of The Week\WeekDay\WeekDay\obj\Debug\WeekDay.exe
+D:\Projects\Programming\C#\06 - Get Days Of The Week\WeekDay\WeekDay\obj\Debug\WeekDay.pdb
